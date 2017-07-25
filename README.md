@@ -7,3 +7,6 @@ See this article for more on auto-elevate:
 https://technet.microsoft.com/en-us/library/2009.07.uac.aspx#id0560031
 
 All credit for the method goes to K. Kleissner whom also references credit to http://www.pretentiousname.com/misc/win7_uac_whitelist2.html. My code is just a reimplementation of his work.
+
+## Screenshots
+![Alt text](/pics/priv-elevation.png?raw=true "Sample Execution")
